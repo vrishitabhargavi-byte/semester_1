@@ -8,4 +8,6 @@ void add()
 int main()
 {
 	add();
+	printf(" \n%d",a);
 }
+
